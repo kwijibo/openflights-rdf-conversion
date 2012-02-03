@@ -1,0 +1,1006 @@
+{
+  "head": {
+    "vars": [ "uri" , "label" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AF" } ,
+        "label": { "type": "literal" , "value": "Afghanistan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TM" } ,
+        "label": { "type": "literal" , "value": "Turkmenistan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SB" } ,
+        "label": { "type": "literal" , "value": "Solomon Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/QA" } ,
+        "label": { "type": "literal" , "value": "Qatar" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PK" } ,
+        "label": { "type": "literal" , "value": "Pakistan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MT" } ,
+        "label": { "type": "literal" , "value": "Malta" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/LI" } ,
+        "label": { "type": "literal" , "value": "Liechtenstein" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/IR" } ,
+        "label": { "type": "literal" , "value": "Iran" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GQ" } ,
+        "label": { "type": "literal" , "value": "Equatorial Guinea" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/VA" } ,
+        "label": { "type": "literal" , "value": "Holy See (Vatican City State)" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/DZ" } ,
+        "label": { "type": "literal" , "value": "Algeria" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/DE" } ,
+        "label": { "type": "literal" , "value": "Germany" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CO" } ,
+        "label": { "type": "literal" , "value": "Colombia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BY" } ,
+        "label": { "type": "literal" , "value": "Belarus" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BD" } ,
+        "label": { "type": "literal" , "value": "Bangladesh" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SJ" } ,
+        "label": { "type": "literal" , "value": "Svalbard and Jan Mayen" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PS" } ,
+        "label": { "type": "literal" , "value": "Palestinian Territory, Occupied" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NR" } ,
+        "label": { "type": "literal" , "value": "Nauru" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MG" } ,
+        "label": { "type": "literal" , "value": "Madagascar" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/JP" } ,
+        "label": { "type": "literal" , "value": "Japan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/IE" } ,
+        "label": { "type": "literal" , "value": "Ireland" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GY" } ,
+        "label": { "type": "literal" , "value": "Guyana" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GD" } ,
+        "label": { "type": "literal" , "value": "Grenada" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/EC" } ,
+        "label": { "type": "literal" , "value": "Ecuador" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/DM" } ,
+        "label": { "type": "literal" , "value": "Dominica" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CW" } ,
+        "label": { "type": "literal" , "value": "Curaçao" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/VI" } ,
+        "label": { "type": "literal" , "value": "Virgin Islands, U.S." }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BL" } ,
+        "label": { "type": "literal" , "value": "Saint Barthélemy" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/US" } ,
+        "label": { "type": "literal" , "value": "United States of America" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TH" } ,
+        "label": { "type": "literal" , "value": "Thailand" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SR" } ,
+        "label": { "type": "literal" , "value": "Suriname" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PF" } ,
+        "label": { "type": "literal" , "value": "French Polynesia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NZ" } ,
+        "label": { "type": "literal" , "value": "New Zealand" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NE" } ,
+        "label": { "type": "literal" , "value": "Niger" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MO" } ,
+        "label": { "type": "literal" , "value": "Macao" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/LY" } ,
+        "label": { "type": "literal" , "value": "Libya" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/KN" } ,
+        "label": { "type": "literal" , "value": "Saint Kitts and Nevis" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/IM" } ,
+        "label": { "type": "literal" , "value": "Isle of Man" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GL" } ,
+        "label": { "type": "literal" , "value": "Greenland" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BT" } ,
+        "label": { "type": "literal" , "value": "Bhutan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AI" } ,
+        "label": { "type": "literal" , "value": "Anguilla" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SZ" } ,
+        "label": { "type": "literal" , "value": "Swaziland" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SE" } ,
+        "label": { "type": "literal" , "value": "Sweden" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/RO" } ,
+        "label": { "type": "literal" , "value": "Romania" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PN" } ,
+        "label": { "type": "literal" , "value": "Pitcairn" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MW" } ,
+        "label": { "type": "literal" , "value": "Malawi" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GT" } ,
+        "label": { "type": "literal" , "value": "Guatemala" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/FI" } ,
+        "label": { "type": "literal" , "value": "Finland" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/ES" } ,
+        "label": { "type": "literal" , "value": "Spain" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CR" } ,
+        "label": { "type": "literal" , "value": "Costa Rica" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BG" } ,
+        "label": { "type": "literal" , "value": "Bulgaria" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AQ" } ,
+        "label": { "type": "literal" , "value": "Antarctica" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TC" } ,
+        "label": { "type": "literal" , "value": "Turks and Caicos Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SM" } ,
+        "label": { "type": "literal" , "value": "San Marino" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/RW" } ,
+        "label": { "type": "literal" , "value": "Rwanda" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PA" } ,
+        "label": { "type": "literal" , "value": "Panama" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NU" } ,
+        "label": { "type": "literal" , "value": "Niue" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/LT" } ,
+        "label": { "type": "literal" , "value": "Lithuania" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/KI" } ,
+        "label": { "type": "literal" , "value": "Kiribati" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/HR" } ,
+        "label": { "type": "literal" , "value": "Croatia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GG" } ,
+        "label": { "type": "literal" , "value": "Guernsey" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CZ" } ,
+        "label": { "type": "literal" , "value": "Czech Republic" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BO" } ,
+        "label": { "type": "literal" , "value": "Bolivia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/UA" } ,
+        "label": { "type": "literal" , "value": "Ukraine" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AD" } ,
+        "label": { "type": "literal" , "value": "Andorra" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TK" } ,
+        "label": { "type": "literal" , "value": "Tokelau" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MR" } ,
+        "label": { "type": "literal" , "value": "Mauritania" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/ZA" } ,
+        "label": { "type": "literal" , "value": "South Africa" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CM" } ,
+        "label": { "type": "literal" , "value": "Cameroon" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BW" } ,
+        "label": { "type": "literal" , "value": "Botswana" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BB" } ,
+        "label": { "type": "literal" , "value": "Barbados" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AL" } ,
+        "label": { "type": "literal" , "value": "Albania" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SH" } ,
+        "label": { "type": "literal" , "value": "Saint Helena, Ascension and Tristan da Cunha" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NP" } ,
+        "label": { "type": "literal" , "value": "Nepal" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MZ" } ,
+        "label": { "type": "literal" , "value": "Mozambique" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/ME" } ,
+        "label": { "type": "literal" , "value": "Montenegro" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/KY" } ,
+        "label": { "type": "literal" , "value": "Cayman Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/HM" } ,
+        "label": { "type": "literal" , "value": "Heard Island and McDonald Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GW" } ,
+        "label": { "type": "literal" , "value": "Guinea-Bissau" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GB" } ,
+        "label": { "type": "literal" , "value": "United Kingdom" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/DK" } ,
+        "label": { "type": "literal" , "value": "Denmark" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CU" } ,
+        "label": { "type": "literal" , "value": "Cuba" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/VG" } ,
+        "label": { "type": "literal" , "value": "British Virgin Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BJ" } ,
+        "label": { "type": "literal" , "value": "Benin" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AT" } ,
+        "label": { "type": "literal" , "value": "Austria" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TF" } ,
+        "label": { "type": "literal" , "value": "French Southern Territories" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/RE" } ,
+        "label": { "type": "literal" , "value": "Réunion" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PY" } ,
+        "label": { "type": "literal" , "value": "Paraguay" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NC" } ,
+        "label": { "type": "literal" , "value": "New Caledonia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MM" } ,
+        "label": { "type": "literal" , "value": "Myanmar" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/LB" } ,
+        "label": { "type": "literal" , "value": "Lebanon" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/HU" } ,
+        "label": { "type": "literal" , "value": "Hungary" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CH" } ,
+        "label": { "type": "literal" , "value": "Switzerland" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BR" } ,
+        "label": { "type": "literal" , "value": "Brazil" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/UY" } ,
+        "label": { "type": "literal" , "value": "Uruguay" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AG" } ,
+        "label": { "type": "literal" , "value": "Antigua and Barbuda" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TN" } ,
+        "label": { "type": "literal" , "value": "Tunisia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SX" } ,
+        "label": { "type": "literal" , "value": "Sint Maarten (Dutch part)" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SC" } ,
+        "label": { "type": "literal" , "value": "Seychelles" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PL" } ,
+        "label": { "type": "literal" , "value": "Poland" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MU" } ,
+        "label": { "type": "literal" , "value": "Mauritius" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/IS" } ,
+        "label": { "type": "literal" , "value": "Iceland" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GR" } ,
+        "label": { "type": "literal" , "value": "Greece" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BZ" } ,
+        "label": { "type": "literal" , "value": "Belize" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BE" } ,
+        "label": { "type": "literal" , "value": "Belgium" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AO" } ,
+        "label": { "type": "literal" , "value": "Angola" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TV" } ,
+        "label": { "type": "literal" , "value": "Tuvalu" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SK" } ,
+        "label": { "type": "literal" , "value": "Slovakia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/RU" } ,
+        "label": { "type": "literal" , "value": "Russian Federation" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PT" } ,
+        "label": { "type": "literal" , "value": "Portugal" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MH" } ,
+        "label": { "type": "literal" , "value": "Marshall Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/LR" } ,
+        "label": { "type": "literal" , "value": "Liberia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/KG" } ,
+        "label": { "type": "literal" , "value": "Kyrgyzstan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GE" } ,
+        "label": { "type": "literal" , "value": "Georgia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/FO" } ,
+        "label": { "type": "literal" , "value": "Faroe Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CX" } ,
+        "label": { "type": "literal" , "value": "Christmas Island" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CC" } ,
+        "label": { "type": "literal" , "value": "Cocos (Keeling) Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BM" } ,
+        "label": { "type": "literal" , "value": "Bermuda" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AW" } ,
+        "label": { "type": "literal" , "value": "Aruba" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SS" } ,
+        "label": { "type": "literal" , "value": "South Sudan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PG" } ,
+        "label": { "type": "literal" , "value": "Papua New Guinea" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NF" } ,
+        "label": { "type": "literal" , "value": "Norfolk Island" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MP" } ,
+        "label": { "type": "literal" , "value": "Northern Mariana Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/IN" } ,
+        "label": { "type": "literal" , "value": "India" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GM" } ,
+        "label": { "type": "literal" , "value": "Gambia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CK" } ,
+        "label": { "type": "literal" , "value": "Cook Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/UG" } ,
+        "label": { "type": "literal" , "value": "Uganda" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MX" } ,
+        "label": { "type": "literal" , "value": "Mexico" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MC" } ,
+        "label": { "type": "literal" , "value": "Monaco" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/KW" } ,
+        "label": { "type": "literal" , "value": "Kuwait" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/HK" } ,
+        "label": { "type": "literal" , "value": "Hong Kong" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GU" } ,
+        "label": { "type": "literal" , "value": "Guam" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/FJ" } ,
+        "label": { "type": "literal" , "value": "Fiji" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/ET" } ,
+        "label": { "type": "literal" , "value": "Ethiopia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/VE" } ,
+        "label": { "type": "literal" , "value": "Venezuela" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BH" } ,
+        "label": { "type": "literal" , "value": "Bahrain" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AR" } ,
+        "label": { "type": "literal" , "value": "Argentina" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TD" } ,
+        "label": { "type": "literal" , "value": "Chad" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SN" } ,
+        "label": { "type": "literal" , "value": "Senegal" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PW" } ,
+        "label": { "type": "literal" , "value": "Palau" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NA" } ,
+        "label": { "type": "literal" , "value": "Namibia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MK" } ,
+        "label": { "type": "literal" , "value": "The former Yugoslav Republic of Macedonia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/LU" } ,
+        "label": { "type": "literal" , "value": "Luxembourg" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GH" } ,
+        "label": { "type": "literal" , "value": "Ghana" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/FR" } ,
+        "label": { "type": "literal" , "value": "France" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/EG" } ,
+        "label": { "type": "literal" , "value": "Egypt" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CF" } ,
+        "label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AZ" } ,
+        "label": { "type": "literal" , "value": "Azerbaijan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AE" } ,
+        "label": { "type": "literal" , "value": "United Arab Emirates" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TL" } ,
+        "label": { "type": "literal" , "value": "Timor-Leste" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SV" } ,
+        "label": { "type": "literal" , "value": "El Salvador" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SA" } ,
+        "label": { "type": "literal" , "value": "Saudi Arabia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NI" } ,
+        "label": { "type": "literal" , "value": "Nicaragua" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MS" } ,
+        "label": { "type": "literal" , "value": "Montserrat" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/KR" } ,
+        "label": { "type": "literal" , "value": "Republic of Korea" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/IQ" } ,
+
+        "label": { "type": "literal" , "value": "Iraq" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GP" } ,
+        "label": { "type": "literal" , "value": "Guadeloupe" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/ZW" } ,
+        "label": { "type": "literal" , "value": "Zimbabwe" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CN" } ,
+        "label": { "type": "literal" , "value": "China" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/VU" } ,
+        "label": { "type": "literal" , "value": "Vanuatu" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AM" } ,
+        "label": { "type": "literal" , "value": "Armenia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TT" } ,
+        "label": { "type": "literal" , "value": "Trinidad and Tobago" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SI" } ,
+        "label": { "type": "literal" , "value": "Slovenia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/RS" } ,
+        "label": { "type": "literal" , "value": "Serbia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PR" } ,
+        "label": { "type": "literal" , "value": "Puerto Rico" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MF" } ,
+        "label": { "type": "literal" , "value": "Saint Martin (French part)" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/KZ" } ,
+        "label": { "type": "literal" , "value": "Kazakhstan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/KE" } ,
+        "label": { "type": "literal" , "value": "Kenya" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/JO" } ,
+        "label": { "type": "literal" , "value": "Jordan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/ID" } ,
+        "label": { "type": "literal" , "value": "Indonesia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/HN" } ,
+        "label": { "type": "literal" , "value": "Honduras" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/FM" } ,
+        "label": { "type": "literal" , "value": "Micronesia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/YT" } ,
+        "label": { "type": "literal" , "value": "Mayotte" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/WS" } ,
+        "label": { "type": "literal" , "value": "Samoa" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CV" } ,
+        "label": { "type": "literal" , "value": "Cape Verde" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CA" } ,
+        "label": { "type": "literal" , "value": "Canada" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AU" } ,
+        "label": { "type": "literal" , "value": "Australia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TG" } ,
+        "label": { "type": "literal" , "value": "Togo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PE" } ,
+        "label": { "type": "literal" , "value": "Peru" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MN" } ,
+        "label": { "type": "literal" , "value": "Mongolia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/LC" } ,
+        "label": { "type": "literal" , "value": "Saint Lucia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/KM" } ,
+        "label": { "type": "literal" , "value": "Comoros" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/IL" } ,
+        "label": { "type": "literal" , "value": "Israel" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/WF" } ,
+        "label": { "type": "literal" , "value": "Wallis and Futuna" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CI" } ,
+        "label": { "type": "literal" , "value": "Côte d'Ivoire" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BS" } ,
+        "label": { "type": "literal" , "value": "Bahamas" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/UZ" } ,
+        "label": { "type": "literal" , "value": "Uzbekistan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TO" } ,
+        "label": { "type": "literal" , "value": "Tonga" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SY" } ,
+        "label": { "type": "literal" , "value": "Syrian Arab Republic" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SD" } ,
+        "label": { "type": "literal" , "value": "Sudan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PM" } ,
+        "label": { "type": "literal" , "value": "Saint Pierre and Miquelon" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NL" } ,
+        "label": { "type": "literal" , "value": "Netherlands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MV" } ,
+        "label": { "type": "literal" , "value": "Maldives" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MA" } ,
+        "label": { "type": "literal" , "value": "Morocco" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/LK" } ,
+        "label": { "type": "literal" , "value": "Sri Lanka" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/IT" } ,
+        "label": { "type": "literal" , "value": "Italy" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GS" } ,
+        "label": { "type": "literal" , "value": "South Georgia and the South Sandwich Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/ER" } ,
+        "label": { "type": "literal" , "value": "Eritrea" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/VC" } ,
+        "label": { "type": "literal" , "value": "Saint Vincent and the Grenadines" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BF" } ,
+        "label": { "type": "literal" , "value": "Burkina Faso" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/UM" } ,
+        "label": { "type": "literal" , "value": "United States Minor Outlying Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TW" } ,
+        "label": { "type": "literal" , "value": "Taiwan, Province of China" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SL" } ,
+        "label": { "type": "literal" , "value": "Sierra Leone" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/LS" } ,
+        "label": { "type": "literal" , "value": "Lesotho" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/KH" } ,
+        "label": { "type": "literal" , "value": "Cambodia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GF" } ,
+        "label": { "type": "literal" , "value": "French Guiana" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/ZM" } ,
+        "label": { "type": "literal" , "value": "Zambia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/EE" } ,
+        "label": { "type": "literal" , "value": "Estonia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/DO" } ,
+        "label": { "type": "literal" , "value": "Dominican Republic" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CY" } ,
+        "label": { "type": "literal" , "value": "Cyprus" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CD" } ,
+        "label": { "type": "literal" , "value": "Democratic Republic of the Congo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BN" } ,
+        "label": { "type": "literal" , "value": "Brunei Darussalam" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AX" } ,
+        "label": { "type": "literal" , "value": "Åland Islands" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TJ" } ,
+        "label": { "type": "literal" , "value": "Tajikistan" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/ST" } ,
+        "label": { "type": "literal" , "value": "Sao Tome and Principe" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/PH" } ,
+        "label": { "type": "literal" , "value": "Philippines" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NG" } ,
+        "label": { "type": "literal" , "value": "Nigeria" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MQ" } ,
+        "label": { "type": "literal" , "value": "Martinique" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/KP" } ,
+        "label": { "type": "literal" , "value": "Democratic People's Republic of Korea" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/JE" } ,
+        "label": { "type": "literal" , "value": "Jersey" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/IO" } ,
+        "label": { "type": "literal" , "value": "British Indian Ocean Territory" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GN" } ,
+        "label": { "type": "literal" , "value": "Guinea" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CL" } ,
+        "label": { "type": "literal" , "value": "Chile" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BV" } ,
+        "label": { "type": "literal" , "value": "Bouvet Island" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BA" } ,
+        "label": { "type": "literal" , "value": "Bosnia and Herzegovina" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TR" } ,
+        "label": { "type": "literal" , "value": "Turkey" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SG" } ,
+        "label": { "type": "literal" , "value": "Singapore" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/NO" } ,
+        "label": { "type": "literal" , "value": "Norway" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MY" } ,
+        "label": { "type": "literal" , "value": "Malaysia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/MD" } ,
+        "label": { "type": "literal" , "value": "Moldova" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/JM" } ,
+        "label": { "type": "literal" , "value": "Jamaica" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GA" } ,
+        "label": { "type": "literal" , "value": "Gabon" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/FK" } ,
+        "label": { "type": "literal" , "value": "Falkland Islands (Malvinas)" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/DJ" } ,
+        "label": { "type": "literal" , "value": "Djibouti" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BI" } ,
+        "label": { "type": "literal" , "value": "Burundi" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/AS" } ,
+        "label": { "type": "literal" , "value": "American Samoa" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/TZ" } ,
+        "label": { "type": "literal" , "value": "United Republic of Tanzania" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/SO" } ,
+        "label": { "type": "literal" , "value": "Somalia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/OM" } ,
+        "label": { "type": "literal" , "value": "Oman" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/ML" } ,
+        "label": { "type": "literal" , "value": "Mali" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/LV" } ,
+        "label": { "type": "literal" , "value": "Latvia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/LA" } ,
+        "label": { "type": "literal" , "value": "Lao People's Democratic Republic" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/HT" } ,
+        "label": { "type": "literal" , "value": "Haiti" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/GI" } ,
+        "label": { "type": "literal" , "value": "Gibraltar" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/YE" } ,
+        "label": { "type": "literal" , "value": "Yemen" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/EH" } ,
+        "label": { "type": "literal" , "value": "Western Sahara" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/VN" } ,
+        "label": { "type": "literal" , "value": "Viet Nam" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/CG" } ,
+        "label": { "type": "literal" , "value": "Congo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://data.kasabi.com/dataset/countries/BQ" } ,
+        "label": { "type": "literal" , "value": "Bonaire, Sint Eustatius and Saba" }
+      }
+    ]
+  }
+}
